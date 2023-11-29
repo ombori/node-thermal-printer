@@ -1,5 +1,5 @@
 {
-  "name": "node-thermal-printer",
+  "name": "@ombori/node-thermal-printer",
   "version": "4.4.1",
   "description": "Print on Epson, Star, Tranca, Drauma and Brother thermal printers with NodeJS",
   "main": "node-thermal-printer.js",

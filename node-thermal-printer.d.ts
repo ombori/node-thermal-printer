@@ -10,7 +10,8 @@ declare enum PrinterTypes {
   EPSON = "epson",
   TANCA = "tanca",
   STAR = "star",
-  DARUMA = "daruma"
+  DARUMA = "daruma",
+  CUSTOM_VPK = "custom_vpk",
 }
 
 declare enum BreakLine {
